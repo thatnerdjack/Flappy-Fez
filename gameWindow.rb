@@ -1,3 +1,6 @@
+#Flappy Fez Copyright © 2014 Jack Doherty
+#License can be found in the LICENSE.md file or at https://github.com/thatnerdjack/Flappy-Fez/blob/master/LICENSE.md
+
 require 'rubygems'
 require 'gosu'
 
